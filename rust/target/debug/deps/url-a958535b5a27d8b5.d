@@ -1,0 +1,13 @@
+C:\Users\MSi\rust-to-do\rust\target\debug\deps\liburl-a958535b5a27d8b5.rmeta: C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\lib.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\host.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\origin.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\parser.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\path_segments.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\slicing.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\quirks.rs
+
+C:\Users\MSi\rust-to-do\rust\target\debug\deps\liburl-a958535b5a27d8b5.rlib: C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\lib.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\host.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\origin.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\parser.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\path_segments.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\slicing.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\quirks.rs
+
+C:\Users\MSi\rust-to-do\rust\target\debug\deps\url-a958535b5a27d8b5.d: C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\lib.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\host.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\origin.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\parser.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\path_segments.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\slicing.rs C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\quirks.rs
+
+C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\lib.rs:
+C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\host.rs:
+C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\origin.rs:
+C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\parser.rs:
+C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\path_segments.rs:
+C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\slicing.rs:
+C:\Users\MSi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\url-2.5.4\src\quirks.rs:
